@@ -1,0 +1,1 @@
+Esse software é dedicado ao cálculo de corrosão anisotrópica de Si utilizando KOH,tendo como base datasets experimentais como o anexado nesse projeto. É possível acessar online via calculadora-de-corrosao-koh.vercel.app .
